@@ -55,6 +55,7 @@ bin/qseecomd
 bin/mm-qcamera-daemon
 bin/bridgemgrd
 bin/irsc_util
+bin/time_daemon
 lib/libmmcamera_interface.so
 lib/hw/camera.msm8974.so
 lib/libHDR.so

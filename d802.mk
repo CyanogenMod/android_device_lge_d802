@@ -26,8 +26,8 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 PRODUCT_DEVICE := d802
 PRODUCT_NAME := full_d802
 PRODUCT_BRAND := LGE
-PRODUCT_MODEL := LG-D802
-PRODUCT_MANUFACTURER := lge
+PRODUCT_MODEL := D802
+PRODUCT_MANUFACTURER := LGE
 PRODUCT_RESTRICT_VENDOR_FILES := false
 
 # Inherit from hardware-specific part of the product configuration

@@ -55,7 +55,7 @@ bin/bridgemgrd
 bin/irsc_util
 bin/time_daemon
 lib/libmmcamera_interface.so
-lib/hw/camera.msm8974.so
+lib/hw/camera.vendor.msm8974.so
 lib/libHDR.so
 lib/libmorpho_noise_reduction.so
 lib/libmorpho_image_stab31.so
@@ -135,8 +135,7 @@ vendor/lib/liblistenhardware.so
 vendor/lib/liblistenjni.so
 vendor/lib/liblisten.so
 vendor/lib/liblistensoundmodel.so
-vendor/lib/libllvm-a3xx.so
-vendor/lib/libllvm-arm.so
+vendor/lib/libllvm-qcom.so
 vendor/lib/libmm-abl-oem.so
 vendor/lib/libmm-abl.so
 vendor/lib/libmmcamera2_c2d_module.so

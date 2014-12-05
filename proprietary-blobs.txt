@@ -27,7 +27,6 @@ lib/libvss_ims_qcci.so
 lib/libvss_common_core.so
 lib/libcnefeatureconfig.so
 lib/libloc_api_v02.so
-lib/libWVphoneAPI.so
 #lib/liblgftmitem.so
 #lib/liblgdrm.so
 #lib/liblgsecclk.so
@@ -61,7 +60,10 @@ lib/libmorpho_noise_reduction.so
 lib/libmorpho_image_stab31.so
 lib/libmmjpeg_interface.so
 lib/libqomx_core.so
+lib/liboemcrypto.so
+lib/drm/libfwdlockengine.so
 ## Vendor
+vendor/lib/libWVphoneAPI.so
 vendor/lib/drm/libdrmwvmplugin.so
 vendor/lib/egl/eglsubAndroid.so
 vendor/lib/egl/libEGL_adreno.so
@@ -248,6 +250,7 @@ vendor/lib/libWVStreamControlAPI_L1.so
 vendor/lib/libxml.so
 vendor/lib/pp_proc_plugin.so
 vendor/lib/mediadrm/libwvdrmengine.so
+vendor/lib/mediadrm/libdrmclearkeyplugin.so
 vendor/firmware/BCM20791B5_002.006.013.0011.0027_LGE_A1_I2C_NCD_Signed_ORC.ncd
 vendor/firmware/BCM20791B5_002.006.013.0011.0027_LGE_A1_PreI2C_NCD_Signed_ORC.ncd
 vendor/firmware/BCM4335B0_002.001.006.0191.0201_ORC.hcd

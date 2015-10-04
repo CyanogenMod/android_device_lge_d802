@@ -1,0 +1,19 @@
+# ADSP
+etc/firmware/adsp.b00
+etc/firmware/adsp.b01
+etc/firmware/adsp.b02
+etc/firmware/adsp.b03
+etc/firmware/adsp.b04
+etc/firmware/adsp.b05
+etc/firmware/adsp.b06
+etc/firmware/adsp.b07
+etc/firmware/adsp.b08
+etc/firmware/adsp.b09
+etc/firmware/adsp.b10
+etc/firmware/adsp.b11
+etc/firmware/adsp.b12
+etc/firmware/adsp.mdt
+
+# NFC
+vendor/firmware/BCM20791B5_002.006.013.0011.0098_Generic_I2C_NCD_Signed_configdata.ncd
+vendor/firmware/BCM20791B5_002.006.013.0011.0098_Generic_PreI2C_NCD_Signed_configdata.ncd

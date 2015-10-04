@@ -1,0 +1,7 @@
+#
+# System.prop for D801 (T-Mobile LG G2)
+#
+
+# RIL
+telephony.lteOnGsmDevice=1
+ro.telephony.default_network=9

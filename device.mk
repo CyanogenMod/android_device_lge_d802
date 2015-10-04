@@ -20,11 +20,6 @@ $(call inherit-product, device/lge/g2-common/g2.mk)
 ## overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
-
-PRODUCT_PROPERTY_OVERRIDES += \
-	telephony.lteOnGsmDevice=1 \
-	ro.telephony.default_network=9
-
 PRODUCT_COPY_FILES += \
 	frameworks/native/data/etc/android.hardware.telephony.gsm.xml:system/etc/permissions/android.hardware.telephony.gsm.xml \
 	frameworks/native/data/etc/android.hardware.nfc.hce.xml:system/etc/permissions/android.hardware.nfc.hce.xml
